@@ -29,8 +29,8 @@
 
 1.  **克隆仓库**：
     ```bash
-    git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git
-    cd YOUR_REPOSITORY_NAME
+    git clone https://github.com/YOUR_USERNAME/Huggingface_Downloader.git
+    cd Huggingface_Downloader
     ```
 
 2.  **安装依赖**：
