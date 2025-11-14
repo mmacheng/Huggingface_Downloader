@@ -2,6 +2,9 @@
 
 一个功能强大且用户友好的图形界面工具，用于从 Hugging Face Hub 下载模型文件。
 
+<img width="1996" height="1592" alt="image" src="https://github.com/user-attachments/assets/78e2b230-a953-4a97-9bcf-8a172aaa2095" />
+
+
 ## ✨ 功能特性
 
 *   **图形化界面 (GUI)**：使用 PyQt6 构建，操作直观便捷。
